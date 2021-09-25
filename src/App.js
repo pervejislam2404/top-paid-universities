@@ -1,23 +1,49 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header/Header';
+import {useState,useEffect} from 'react';
+import University from './components/University/University';
+import Cart from './components/Cart/Cart';
 
 function App() {
+  // total-university
+  const [items,setItems] = useState([]);
+
+  // total-added-university
+  const [added,setAdded] = useState([]);
+
+  // fetching-all-university
+useEffect(() =>{
+  fetch('./myData.json')
+  .then(res => res.json())
+  .then(data => setItems(data))
+},[])
+
+// handling-added-university
+function setUniversityList(university) {
+  const newAdded = [...added,university];
+  setAdded(newAdded);
+}
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <main style={{backgroundColor: '#FEFBF3'}}>
+           <Header></Header>
+           <div className="display-universities row mt-5 px-5">
+
+             {/* university-name-display-section */}
+             <div className="col-9 row px-5">
+                {
+                  items.map(university => <University key={university.key} setVarsity={setUniversityList} university={university}/>)
+                }
+             </div>
+
+             {/* quantity-name-price-calculate-cart-section */}
+              <div className="col-3">
+                  <Cart addedVarsity={added}/>
+              </div>
+           </div>
+      </main>
     </div>
   );
 }

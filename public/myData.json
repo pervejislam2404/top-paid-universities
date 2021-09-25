@@ -1,0 +1,73 @@
+[{
+        "name": " UCL (University College London), UK",
+        "location": "Gower St, London WC1E 6BT, United Kingdom",
+        "rank": "19",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nWbhGweAGkeY4ikTeG0Qz5ZOGVZWmgXsTw&usqp=CAU",
+        "phone": "+44 20 7679 2000",
+        "fee": "36234",
+        "key": "4d3fd3sf14s"
+    },
+    {
+        "name": " University of Chicago, US",
+        "location": " 5801 S Ellis Ave, Chicago, IL 60637, United States",
+        "rank": "10",
+        "photo": "https://api.wbez.org/v2/images/ec305c37-be82-4810-9e5f-25d9337936c3.jpg?mode=FILL&width=1200&height=630",
+        "phone": "+1 773-702-1234",
+        "fee": "49434",
+        "key": "4dsdf3814ds"
+    },
+    {
+        "name": " Imperial College London, UK",
+        "location": "  Exhibition Rd, South Kensington, London SW7 2BX, United Kingdom",
+        "rank": "8",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRNKTFSweCiT_Icz_lLIuDRAjh6GLehA__Q&usqp=CAU",
+        "phone": "+44 20 7589 5111",
+        "fee": "41760",
+        "key": "udue536546dfe"
+    },
+    {
+        "name": " University of Cambridge, UK",
+        "location": "The Old Schools, Trinity Ln, Cambridge CB2 1TN, United Kingdom",
+        "rank": "9",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsSGZdPzktmeuEocpK2LKzg1lTjSjDE_SbA&usqp=CAU",
+        "phone": "+44 1223 337733",
+        "fee": "73460",
+        "key": "73460dseh65y"
+    },
+    {
+        "name": "University of Oxford, UK",
+        "location": " Oxford OX1 2JD, United Kingdom",
+        "rank": "5",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nTPDXGQJS6IaQ37yUcGc5cf45iGiwNNCNw&usqp=CAU",
+        "phone": "+44 1865 270000",
+        "fee": "42557",
+        "key": "4d65htg5c6e6"
+    },
+    {
+        "name": "Harvard University, US",
+        "location": "Cambridge, MA, United States",
+        "rank": "1",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pVI0GKLzPp5l1996tCUYhwitym5qx-mypA&usqp=CAU",
+        "phone": "+1 617-495-1000",
+        "fee": "48008 ",
+        "key": "564sdf56f4dsf"
+    },
+    {
+        "name": "Stanford University, US",
+        "location": " 450 Serra Mall, Stanford, CA 94305, United States",
+        "rank": "2",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDXwbDYgmHUqOJdFlx-xmbv7wTDrFtJKllw&usqp=CAU",
+        "phone": "+1 650-723-2300",
+        "fee": "55473",
+        "key": "4d2uqm6d6t6"
+    },
+    {
+        "name": "Massachusetts Institute of Technology (MIT), US",
+        "location": "  77 Massachusetts Ave, Cambridge, MA 02139, United States",
+        "rank": "4",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDaW2LlJZVMG9QleCEe4rqALuu4HTL3vfKjg&usqp=CAU",
+        "phone": "+1 617-253-1000",
+        "fee": "51752",
+        "key": "4dj93d86b96r5c"
+    }
+]
