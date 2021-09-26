@@ -1,4 +1,4 @@
-[Top paid universities](https://frosty-lovelace-6fbf04.netlify.app/)
+## Top paid universities
 
 ## This is a website of most paid university in the world
 
