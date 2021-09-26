@@ -27,7 +27,7 @@ function setUniversityList(university) {
 
   return (
     <div className="App">
-      <main style={{backgroundColor: '#FEFBF3'}}>
+      <main style={{backgroundColor: '#C8C6C6',overflow: 'hidden'}}>
            <Header></Header>
            <div className="display-universities row mt-5 px-5">
 
