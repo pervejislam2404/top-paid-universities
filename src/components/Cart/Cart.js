@@ -20,7 +20,7 @@ const Cart = (props) => {
             </div>
             {/* total-added-university-list */}
            <h2  style={{backgroundColor: '#1E3163',padding: '8px 10px',color: 'white',borderRadius: '10px'}}>Total added university</h2>
-         <ol class="list-group list-group-numbered">
+         <ol className="list-group list-group-numbered">
             {
              addedVarsity.map(item => <li  className="list-group-item fs-4 my-2 shadow-lg" key={item.rank}>{item.name}</li>)
             }
