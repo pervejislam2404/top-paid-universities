@@ -21,7 +21,7 @@ const University = (props) => {
                    {/* university-adding-handler */}
                    <button onClick={()=> setVarsity(university)} className="btn btn-warning fw-bold"><i className="fas fa-th-list"></i>Add to list</button>
                    <div className="fs-1">
-                   <a href={ldn} target="blank"><i class="fab fa-linkedin text-primary mx-2"></i></a>
+                   <a href={ldn} target="blank"><i className="fab fa-linkedin text-primary mx-2"></i></a>
                      <a href={fb} target="blank"><i className="fab fa-facebook-square text-primary mx-2"></i></a>
                       <a href={yt} target="blank"><i className="fab fa-youtube-square text-danger mx-2"></i></a>
                    </div>
