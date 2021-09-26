@@ -6,7 +6,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nWbhGweAGkeY4ikTeG0Qz5ZOGVZWmgXsTw&usqp=CAU",
         "phone": "+44 20 7679 2000",
         "fee": "36234",
-        "key": "4d3fd3sf14s"
+        "key": "4d3fd3sf14s",
+        "fb": "https://www.facebook.com/LondonU/",
+        "yt": "https://www.youtube.com/UCLTV",
+        "ldn": "https://www.linkedin.com/school/university-college-london/"
     },
     {
         "name": " University of Chicago, US",
@@ -16,7 +19,10 @@
         "photo": "https://api.wbez.org/v2/images/ec305c37-be82-4810-9e5f-25d9337936c3.jpg?mode=FILL&width=1200&height=630",
         "phone": "+1 773-702-1234",
         "fee": "49434",
-        "key": "4dsdf3814ds"
+        "key": "4dsdf3814ds",
+        "fb": "https://www.facebook.com/uchicago/",
+        "yt": "https://www.youtube.com/channel/UCGINcKuFbysZAslgL46KeOA",
+        "ldn": "https://www.linkedin.com/school/uchicago/"
     },
     {
         "name": " Imperial College London, UK",
@@ -26,7 +32,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRNKTFSweCiT_Icz_lLIuDRAjh6GLehA__Q&usqp=CAU",
         "phone": "+44 20 7589 5111",
         "fee": "41760",
-        "key": "udue536546dfe"
+        "key": "udue536546dfe",
+        "fb": "https://www.facebook.com/imperialcollegelondon/",
+        "yt": "https://www.youtube.com/channel/UCcRV5FPxxWFdS4Fjnk9FQvA",
+        "ldn": "https://www.linkedin.com/school/imperial-college-london/"
     },
     {
         "name": " University of Cambridge, UK",
@@ -36,7 +45,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsSGZdPzktmeuEocpK2LKzg1lTjSjDE_SbA&usqp=CAU",
         "phone": "+44 1223 337733",
         "fee": "73460",
-        "key": "73460dseh65y"
+        "key": "73460dseh65y",
+        "fb": "https://www.facebook.com/cambridge.university/",
+        "yt": "https://www.youtube.com/cambridgeuniversity",
+        "ldn": "https://www.linkedin.com/school/university-of-cambridge/"
     },
     {
         "name": "University of Oxford, UK",
@@ -46,7 +58,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nTPDXGQJS6IaQ37yUcGc5cf45iGiwNNCNw&usqp=CAU",
         "phone": "+44 1865 270000",
         "fee": "42557",
-        "key": "4d65htg5c6e6"
+        "key": "4d65htg5c6e6",
+        "fb": "https://www.facebook.com/the.university.of.oxford/",
+        "yt": "https://www.youtube.com/c/oxforduniversity",
+        "ldn": "https://www.linkedin.com/school/oxforduni/"
     },
     {
         "name": "Harvard University, US",
@@ -56,7 +71,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pVI0GKLzPp5l1996tCUYhwitym5qx-mypA&usqp=CAU",
         "phone": "+1 617-495-1000",
         "fee": "48008 ",
-        "key": "564sdf56f4dsf"
+        "key": "564sdf56f4dsf",
+        "fb": "https://www.facebook.com/Harvard/",
+        "yt": "https://www.youtube.com/channel/UCLv7Gzc3VTO6ggFlXY0sOyw",
+        "ldn": "https://www.linkedin.com/school/harvard-university/"
     },
     {
         "name": "Stanford University, US",
@@ -66,7 +84,10 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDXwbDYgmHUqOJdFlx-xmbv7wTDrFtJKllw&usqp=CAU",
         "phone": "+1 650-723-2300",
         "fee": "55473",
-        "key": "4d2uqm6d6t6"
+        "key": "4d2uqm6d6t6",
+        "fb": "https://www.facebook.com/stanford/",
+        "yt": "https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA",
+        "ldn": "https://www.linkedin.com/school/stanford-university/"
     },
     {
         "name": "Massachusetts Institute of Technology (MIT), US",
@@ -76,6 +97,9 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDaW2LlJZVMG9QleCEe4rqALuu4HTL3vfKjg&usqp=CAU",
         "phone": "+1 617-253-1000",
         "fee": "51752",
-        "key": "4dj93d86b96r5c"
+        "key": "4dj93d86b96r5c",
+        "fb": "https://www.facebook.com/MITnews/",
+        "yt": "https://www.youtube.com/user/mit",
+        "ldn": "https://www.linkedin.com/school/mit/"
     }
 ]

@@ -32,14 +32,14 @@ function setUniversityList(university) {
            <div className="display-universities row mt-5 px-5">
 
              {/* university-name-display-section */}
-             <div className="col-9 row px-5">
+             <div className="col-12 col-md-9 col-lg-9 row px-5">
                 {
                   items.map(university => <University key={university.key} setVarsity={setUniversityList} university={university}/>)
                 }
              </div>
 
              {/* quantity-name-price-calculate-cart-section */}
-              <div className="col-3">
+              <div className="col-12 col-md-3 col-3">
                   <Cart addedVarsity={added}/>
               </div>
            </div>
