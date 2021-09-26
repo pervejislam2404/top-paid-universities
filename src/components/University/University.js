@@ -18,8 +18,9 @@ const University = (props) => {
                     <h5 className="clr">fee per month<span style={{color: 'orange'}}> ${fee}</span></h5>
                    <p className="clr">rank {rank}</p>
 
-                   {/* university-adding-handler */}
+                   {/* university-event-handler */}
                    <button onClick={()=> setVarsity(university)} className="btn btn-warning fw-bold"><i className="fas fa-th-list"></i>Add to list</button>
+                   {/* social-media-link */}
                    <div className="fs-1">
                    <a href={ldn} target="blank"><i className="fab fa-linkedin text-primary mx-2"></i></a>
                      <a href={fb} target="blank"><i className="fab fa-facebook-square text-primary mx-2"></i></a>
