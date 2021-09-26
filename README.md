@@ -7,4 +7,4 @@
 
 </ul>
 
-<h1>Here my project link <span className="text-danger">Top paid universities</span> https://frosty-lovelace-6fbf04.netlify.app/</h1>
+<h1>Here my project link <span style="color: orange;">Top paid universities</span> https://frosty-lovelace-6fbf04.netlify.app/</h1>
